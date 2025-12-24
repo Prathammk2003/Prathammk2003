@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Pratham+Kulkarni;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+Learning+New+Things;Let's+Build+Something+Amazing!&center=true&size=30&color=58a6ff&width=600">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+I'm+Pratham+Kulkarni;Welcome+to+my+GitHub!;Full+Stack+Developer;Always+Learning&center=true&size=25&color=58a6ff&width=500">
 </h1>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Pratham's+Digital+Universe+🌟;🚀+Full+Stack+Developer;💻+React+%26+Next.js+Specialist;🔧+Node.js+%26+MongoDB+Expert;🌍+Open+Source+Contributor;💡+Building+Innovative+Solutions;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=28&color=58A6FF&center=true&vCenter=true&width=900&height=50&duration=3000&pause=1000" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pratham's+Profile;Full+Stack+Developer;React+%26+Next.js+Developer;Node.js+%26+MongoDB+Expert;Open+Source+Contributor;Building+Cool+Solutions&font=Fira+Code&size=22&color=58A6FF&center=true&vCenter=true&width=450&height=45&duration=3000&pause=1000" alt="Typing Animation"/>
 </h1>
 
 
@@ -210,9 +210,7 @@
 ---
 
 <!-- Achievement Showcase -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FFEAA7&center=true&vCenter=true&lines=🏆+ACHIEVEMENT+SHOWCASE+🏆" alt="Achievements Title"/>
-</h2>
+<h2 align="center">🏆 ACHIEVEMENT SHOWCASE 🏆</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prathammk2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=7" />
@@ -248,9 +246,7 @@
 ---
 
 <!-- Contribution Snake -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=96CEB4&center=true&vCenter=true&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title"/>
-</h2>
+<h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
 
 <div align="center">
   <picture>
