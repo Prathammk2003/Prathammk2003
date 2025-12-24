@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Pratham's+Digital+Universe+🌟;🚀+Full+Stack+Developer;💻+React+%26+Next.js+Specialist;🔧+Node.js+%26+MongoDB+Expert;🌍+Open+Source+Contributor;💡+Building+Innovative+Solutions;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=35&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&duration=3000&pause=1000" alt="Holographic Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Welcome+to+Pratham's+Digital+Universe+🌟;🚀+Full+Stack+Developer;💻+React+%26+Next.js+Specialist;🔧+Node.js+%26+MongoDB+Expert;🌍+Open+Source+Contributor;💡+Building+Innovative+Solutions;🎯+Let's+Create+Something+Extraordinary!&font=Orbitron&size=28&color=58A6FF&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000" alt="Typing Animation"/>
 </h1>
 
 
