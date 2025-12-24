@@ -210,7 +210,9 @@
 ---
 
 <!-- Achievement Showcase -->
-<h2 align="center">🏆 ACHIEVEMENT SHOWCASE 🏆</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FFEAA7&center=true&vCenter=true&width=500&lines=🏆+ACHIEVEMENT+SHOWCASE+🏆" alt="Achievements Title"/>
+</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prathammk2003&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=7" />
@@ -246,7 +248,9 @@
 ---
 
 <!-- Contribution Snake -->
-<h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=96CEB4&center=true&vCenter=true&width=450&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title"/>
+</h2>
 
 <div align="center">
   <picture>
