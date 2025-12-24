@@ -211,7 +211,7 @@
 
 <!-- Achievement Showcase -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=FFEAA7&center=true&vCenter=true&width=500&lines=🏆+ACHIEVEMENT+SHOWCASE+🏆" alt="Achievements Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FFEAA7&center=true&vCenter=true&width=800&lines=🏆+ACHIEVEMENT+SHOWCASE+🏆" alt="Achievements Title"/>
 </h2>
 
 <div align="center">
@@ -249,7 +249,7 @@
 
 <!-- Contribution Snake -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=96CEB4&center=true&vCenter=true&width=450&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=96CEB4&center=true&vCenter=true&width=700&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title"/>
 </h2>
 
 <div align="center">
